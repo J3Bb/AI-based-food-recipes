@@ -1,0 +1,1375 @@
+[
+    {
+      "recipe_name": "Nasi Goreng",
+      "main_component" : "Nasi",
+      "ingredients": [
+    "1 porsi nasi putih",
+    "2 siung bawang merah",
+    "2 siung bawang putih",
+    "kecap manis secukupnya",
+    "garam secukupnya",
+    "merica secukupnya",
+    "100 gr ayam suwir",
+    "1 butir telur",
+    "1 batang daun bawang",
+    "minyak goreng secukupnya"
+    ],
+      "instructions": [
+        "1.  Panaskan minyak, tumis bawang merah dan bawang putih hingga harum.",
+        "2. Masukkan ayam suwir dan tumis hingga matang.",
+        "3. Tambahkan nasi putih dan aduk rata.",
+        "4. Bumbui dengan kecap manis, garam, dan merica.",
+        "5. Goreng telur dan sajikan di atas nasi goreng.",
+        "6. Taburi dengan daun bawang."
+      ],
+      "prep_time": "10 minutes",
+      "cook_time": "15 minutes",
+      "servings": 2
+    },
+    {
+      "recipe_name": "Rendang",
+      "main_component" : "Daging",
+      "ingredients": [
+    "daging sapi (jumlah sesuai selera)",
+    "santan (jumlah sesuai selera)",
+    "5 siung bawang merah",
+    "5 siung bawang putih",
+    "5 buah cabe merah",
+    "1 ruas lengkuas",
+    "1 ruas jahe",
+    "1 ruas kunyit",
+    "2 lembar daun salam",
+    "2 lembar daun jeruk",
+    "1 batang serai",
+    "garam secukupnya",
+    "gula secukupnya"
+    ],
+      "instructions": [
+        "1. Haluskan bumbu-bumbu dan tumis hingga harum.",
+        "2. Masukkan daging sapi dan aduk hingga berubah warna.",
+        "3. Tambahkan santan dan bumbu-bumbu lainnya.",
+        "4. Masak dengan api kecil hingga daging empuk dan kuah mengental."
+      ],
+      "prep_time": "30 minutes",
+      "cook_time": "4 hours",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Soto Ayam",
+      "main_component" : "Ayam",
+      "ingredients": [
+    "1 ekor ayam",
+    "5 siung bawang merah",
+    "5 siung bawang putih",
+    "1 ruas kunyit",
+    "1 ruas jahe",
+    "1 ruas lengkuas",
+    "1 batang serai",
+    "2 lembar daun salam",
+    "2 lembar daun jeruk",
+    "santan (jumlah sesuai selera)",
+    "garam secukupnya",
+    "merica secukupnya",
+    "minyak goreng secukupnya"
+    ],
+      "instructions": [
+        "1. Rebus ayam hingga matang dan suwir-suwir dagingnya.",
+        "2. Tumis bumbu halus hingga harum.",
+        "3. Masukkan bumbu tumis ke dalam kuah kaldu ayam.",
+        "4. Tambahkan santan, garam, dan merica.",
+        "5. Masak hingga mendidih, lalu masukkan ayam suwir."
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "45 minutes",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Gado-Gado",
+      "main_component" : "Sayuran",
+      "ingredients": [
+    "200 gr tahu",
+    "200 gr tempe",
+    "2 buah kentang",
+    "2 buah wortel",
+    "100 gr kol",
+    "100 gr kacang panjang",
+    "100 gr toge",
+    "1 buah timun",
+    "100 gr selada",
+    "2 butir telur rebus",
+    "bawang goreng secukupnya",
+    "sambal kacang (jumlah sesuai selera)",
+    "kerupuk secukupnya"
+    ],
+      "instructions": [
+        "1. Goreng tahu dan tempe hingga kecoklatan.",
+        "2. Rebus kentang, wortel, kol, dan kacang panjang hingga empuk.",
+        "3. Tata sayuran di piring saji.",
+        "4. Tambahkan tahu, tempe, dan telur rebus.",
+        "5. Sirami dengan sambal kacang dan taburi dengan bawang goreng.",
+        "6. Sajikan dengan kerupuk."
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Bakso",
+      "main_component" : "Daging",
+      "ingredients": [
+    "500 gr daging sapi giling",
+    "100 gr tepung kanji",
+    "5 siung bawang putih",
+    "2 siung bawang merah",
+    "garam secukupnya",
+    "merica secukupnya",
+    "es batu secukupnya",
+    "air secukupnya",
+    "mie (jumlah sesuai selera)",
+    "sayuran (sawi, kol) secukupnya",
+    "bawang goreng secukupnya"
+    ],
+      "instructions": [
+        "1. Campur daging sapi giling, bawang putih, garam, merica, dan tepung kanji.",
+        "2. Bentuk adonan menjadi bulatan-bulatan kecil.",
+        "3. Rebus air hingga mendidih dan masukkan bakso.",
+        "4. Masak hingga bakso mengapung, angkat dan tiriskan.",
+        "5. Sajikan bakso dengan mie, sayuran, dan kuah kaldu."
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Sate Ayam",
+      "main_component" : "Ayam",
+      "ingredients": [
+    "500 gr daging ayam",
+    "kecap manis secukupnya",
+    "5 siung bawang putih",
+    "5 siung bawang merah",
+    "1 sdt ketumbar",
+    "garam secukupnya",
+    "merica secukupnya",
+    "tusuk sate secukupnya",
+    "sambal kacang (jumlah sesuai selera)"
+    ],
+      "instructions": [
+        "1. Potong daging ayam menjadi dadu kecil.",
+        "2. Campur kecap manis, bawang putih, bawang merah, ketumbar, garam, dan merica.",
+        "3. Marinasi daging ayam dengan bumbu selama 30 menit.",
+        "4. Tusuk daging ayam pada tusuk sate.",
+        "5. Bakar sate hingga matang dan kecoklatan.",
+        "6. Sajikan dengan sambal kacang."
+      ],
+      "prep_time": "30 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Pempek",
+      "main_component" : "Ikan",
+      "ingredients": [
+    "300 gr ikan tenggiri giling",
+    "200 gr tepung sagu",
+    "200 ml air",
+    "garam secukupnya",
+    "gula secukupnya",
+    "1 butir telur",
+    "100 ml cuka",
+    "5 siung bawang putih",
+    "100 gr gula merah",
+    "100 ml air asam",
+    "1 buah timun"
+    ],
+      "instructions": [
+        "1. Campur ikan tenggiri giling, tepung sagu, garam, gula, dan air.",
+        "2. Bentuk adonan menjadi bola-bola kecil atau sesuai selera.",
+        "3. Rebus adonan hingga mengapung, angkat dan tiriskan.",
+        "4. Goreng pempek hingga kecoklatan.",
+        "5. Buat saus cuka dengan mencampur cuka, gula merah, bawang putih, dan air asam.",
+        "6. Sajikan pempek dengan saus cuka dan irisan timun."
+      ],
+      "prep_time": "30 minutes",
+      "cook_time": "30 minutes",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Sop Buntut",
+      "main_component" : "Daging",
+      "ingredients": [
+    "1 kg buntut sapi",
+    "5 siung bawang putih",
+    "5 siung bawang merah",
+    "1 ruas jahe",
+    "2 buah wortel",
+    "2 buah kentang",
+    "1 batang daun bawang",
+    "1 batang seledri",
+    "garam secukupnya",
+    "merica secukupnya",
+    "pala secukupnya",
+    "minyak goreng secukupnya"
+     ],
+      "instructions": [
+        "1. Rebus buntut sapi hingga empuk, buang air rebusan pertama.",
+        "2. Tumis bawang putih, bawang merah, dan jahe hingga harum.",
+        "3. Masukkan tumisan bumbu ke dalam panci dengan buntut sapi.",
+        "4. Tambahkan wortel, kentang, dan bumbu lainnya.",
+        "5. Masak hingga semua bahan matang dan bumbu meresap.",
+        "6. Sajikan dengan taburan daun bawang dan seledri."
+      ],
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Gudeg",
+      "main_component" : "Nangka",
+      "ingredients": [
+    "500 gr nangka muda",
+    "500 ml santan",
+    "5 siung bawang merah",
+    "5 siung bawang putih",
+    "1 ruas lengkuas",
+    "2 lembar daun salam",
+    "100 gr gula merah",
+    "garam secukupnya",
+    "air secukupnya",
+    "2 butir telur rebus",
+    "daun jati (opsional)"
+    ],
+      "instructions": [
+        "1. Tumis bawang merah dan bawang putih hingga harum.",
+        "2. Masukkan nangka muda, lengkuas, daun salam, dan gula merah.",
+        "3. Tuang santan dan masak dengan api kecil hingga nangka empuk.",
+        "4. Tambahkan telur rebus dan masak hingga bumbu meresap.",
+        "5. Sajikan dengan nasi dan pelengkap lainnya."
+      ],
+      "prep_time": "30 minutes",
+      "cook_time": "4 hours",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Ayam Betutu",
+      "main_component" : "Ayam",
+      "ingredients": [
+    "1 ekor ayam utuh",
+    "5 siung bawang merah",
+    "5 siung bawang putih",
+    "5 butir kemiri",
+    "1 ruas jahe",
+    "1 ruas kunyit",
+    "1 ruas lengkuas",
+    "1 batang serai",
+    "2 lembar daun jeruk",
+    "2 lembar daun salam",
+    "5 buah cabai merah",
+    "garam secukupnya",
+    "gula secukupnya",
+    "500 ml santan",
+    "minyak goreng secukupnya"
+    ],
+      "instructions": [
+        "1. Haluskan bumbu-bumbu: bawang merah, bawang putih, kemiri, jahe, kunyit, lengkuas, cabai merah.",
+        "2. Tumis bumbu halus hingga harum.",
+        "3. Masukkan serai, daun jeruk, dan daun salam.",
+        "4. Tambahkan santan, garam, dan gula. Aduk hingga mendidih.",
+        "5. Lumuri ayam dengan bumbu dan bungkus dengan daun pisang (opsional).",
+        "6. Kukus ayam selama 2-3 jam hingga matang dan empuk."
+      ],
+      "prep_time": "45 minutes",
+      "cook_time": "3 hours",
+      "servings": 4  },
+    {
+      "recipe_name": "Sate Lilit",
+      "main_component" : "Ayam",
+      "ingredients": [
+    "1 ekor ayam utuh",
+    "5 siung bawang merah",
+    "5 siung bawang putih",
+    "5 butir kemiri",
+    "1 ruas jahe",
+    "1 ruas kunyit",
+    "1 ruas lengkuas",
+    "1 batang serai",
+    "2 lembar daun jeruk",
+    "2 lembar daun salam",
+    "5 buah cabai merah",
+    "garam secukupnya",
+    "gula secukupnya",
+    "500 ml santan",
+    "minyak goreng secukupnya"
+    ],
+      "instructions": [
+        "1. Campur daging ayam cincang dengan kelapa parut dan bumbu halus.",
+        "2. Tambahkan daun jeruk, daun bawang, dan cabai merah.",
+        "3. Bentuk adonan menjadi bulat dan lilitkan pada tusuk sate.",
+        "4. Panggang atau bakar sate hingga matang dan kecoklatan."
+      ],
+      "prep_time": "30 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Rawon",
+      "main_component" : "Daging",
+      "ingredients": [
+    "500 gr daging sapi",
+    "5 buah keluak",
+    "5 siung bawang merah",
+    "5 siung bawang putih",
+    "1 ruas jahe",
+    "1 ruas lengkuas",
+    "1 batang serai",
+    "2 lembar daun salam",
+    "2 lembar daun jeruk",
+    "garam secukupnya",
+    "gula secukupnya",
+    "air secukupnya",
+    "minyak goreng secukupnya",
+    "100 gr tauge",
+    "1 batang daun bawang"
+    ],
+      "instructions": [
+        "1. Tumis bumbu halus hingga harum, masukkan keluwak.",
+        "2. Tambahkan daging sapi dan aduk hingga berubah warna.",
+        "3. Tuang air dan masak hingga daging empuk.",
+        "4. Tambahkan garam, gula, dan daun bawang.",
+        "5. Sajikan dengan tauge dan nasi putih."
+      ],
+      "prep_time": "30 minutes",
+      "cook_time": "2 hours",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Ayam Taliwang",
+      "main_component" : "Ayam",
+      "ingredients": [
+    "1 ekor ayam kampung",
+    "5 siung bawang merah",
+    "5 siung bawang putih",
+    "5 buah cabai merah",
+    "1 sdt terasi",
+    "garam secukupnya",
+    "gula secukupnya",
+    "air secukupnya",
+    "minyak goreng secukupnya"
+    ],
+      "instructions": [
+        "1. Haluskan bumbu-bumbu: bawang merah, bawang putih, cabai merah, dan terasi.",
+        "2. Tumis bumbu halus hingga harum.",
+        "3. Tambahkan ayam dan aduk hingga berubah warna.",
+        "4. Tuang air, garam, dan gula. Masak hingga ayam matang dan bumbu meresap."
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "45 minutes",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Bakmi Jawa",
+      "main_component" : "Mie",
+      "ingredients": [
+    "200 gr mie telur",
+    "200 gr daging ayam",
+    "5 siung bawang merah",
+    "5 siung bawang putih",
+    "2 butir telur",
+    "100 gr sawi",
+    "100 gr kol",
+    "kecap manis secukupnya",
+    "garam secukupnya",
+    "merica secukupnya",
+    "minyak goreng secukupnya"
+    ],
+      "instructions": [
+        "1. Rebus mie telur hingga matang, tiriskan.",
+        "2. Tumis bawang merah dan bawang putih hingga harum.",
+        "3. Tambahkan daging ayam dan telur, aduk hingga matang.",
+        "4. Masukkan mie dan sayuran, bumbui dengan kecap manis, garam, dan merica.",
+        "5. Masak hingga semua bahan tercampur rata."
+      ],
+      "prep_time": "15 minutes",
+      "cook_time": "15 minutes",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Opor Ayam",
+      "main_component" : "Ayam",
+      "ingredients": [
+    "1 ekor ayam",
+    "500 ml santan",
+    "5 siung bawang merah",
+    "5 siung bawang putih",
+    "1 ruas kunyit",
+    "1 ruas jahe",
+    "1 ruas lengkuas",
+    "1 batang serai",
+    "2 lembar daun salam",
+    "garam secukupnya",
+    "gula secukupnya",
+    "minyak goreng secukupnya"
+    ],
+      "instructions": [
+        "1. Tumis bumbu halus hingga harum.",
+        "2. Masukkan ayam dan aduk hingga berubah warna.",
+        "3. Tambahkan santan dan bumbu lainnya.",
+        "4. Masak dengan api kecil hingga ayam matang dan bumbu meresap."
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "45 minutes",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Sambal Goreng Kentang",
+      "main_component" : "Kentang",
+      "ingredients":[
+    "500 gr kentang",
+    "5 siung bawang merah",
+    "5 siung bawang putih",
+    "5 buah cabai merah",
+    "1 sdt terasi",
+    "2 lembar daun salam",
+    "garam secukupnya",
+    "gula secukupnya",
+    "minyak goreng secukupnya"
+    ],
+      "instructions": [
+        "1. Kupas dan potong kentang menjadi dadu kecil, goreng hingga matang.",
+        "2. Tumis bumbu halus hingga harum.",
+        "3. Tambahkan kentang goreng, garam, dan gula.",
+        "4. Aduk hingga semua bahan tercampur rata."
+      ],
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Ayam Goreng Kremes",
+      "main_component" : "Ayam",
+      "ingredients": [
+    "1 ekor ayam",
+    "100 gr tepung beras",
+    "5 siung bawang putih",
+    "5 butir kemiri",
+    "1 ruas kunyit",
+    "1 ruas lengkuas",
+    "1 batang serai",
+    "2 lembar daun salam",
+    "garam secukupnya",
+    "gula secukupnya",
+    "minyak goreng secukupnya"
+    ],
+      "instructions": [
+        "1. Haluskan bumbu: bawang putih, kemiri, kunyit, lengkuas.",
+        "2. Rebus ayam dengan bumbu halus hingga matang dan meresap.",
+        "3. Buat adonan kremes dengan tepung beras, air, dan sisa rebusan ayam.",
+        "4. Goreng ayam hingga kecoklatan, tiriskan.",
+        "5. Goreng adonan kremes hingga renyah.",
+        "6. Sajikan ayam goreng dengan kremes di atasnya."
+      ],
+      "prep_time": "30 minutes",
+      "cook_time": "1 hour",
+      "servings": 4
+    },
+    {
+        "recipe_name": "Tongseng Daging",
+        "main_component" : "Daging",
+        "ingredients": [
+          "500 gram daging sapi, potong kecil",
+          "200 ml santan kental",
+          "3 sdm kecap manis",
+          "2 lembar daun salam",
+          "2 batang serai, memarkan",
+          "2 buah tomat, potong-potong",
+          "3 siung bawang putih, haluskan",
+          "5 siung bawang merah, haluskan",
+          "1 ruas jahe, memarkan",
+          "1 ruas lengkuas, memarkan",
+          "1 sdt merica bubuk",
+          "1 sdm garam",
+          "1 sdm gula merah, sisir halus",
+          "Minyak goreng secukupnya untuk menumis"
+        ],
+        "instructions": [
+          "1. Panaskan sedikit minyak di wajan, tumis bawang putih, bawang merah, serai, daun salam, jahe, dan lengkuas hingga harum.",
+          "2. Masukkan potongan daging sapi, aduk hingga berubah warna.",
+          "3. Tambahkan kecap manis, gula merah, garam, dan merica bubuk. Aduk rata.",
+          "4. Tuang santan kental sedikit demi sedikit sambil diaduk agar santan tidak pecah.",
+          "5. Masak dengan api kecil hingga daging empuk dan bumbu meresap.",
+          "6. Masukkan potongan tomat, masak sebentar hingga layu.",
+          "7. Angkat dan sajikan Tongseng Daging selagi hangat."
+        ],
+        "prep_time": "15 menit",
+        "cook_time": "45 menit",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Sop Ayam",
+        "main_component" : "Ayam",
+        "ingredients": [
+          "500 gram ayam, potong-potong",
+          "2 liter air",
+          "3 siung bawang putih, haluskan",
+          "5 siung bawang merah, iris tipis",
+          "2 batang wortel, potong bulat",
+          "2 buah kentang, potong dadu",
+          "100 gram kol, iris kasar",
+          "1 batang daun bawang, iris tipis",
+          "2 batang seledri, iris halus",
+          "1 sdt merica bubuk",
+          "2 sdm minyak untuk menumis",
+          "Garam secukupnya",
+          "Kaldu ayam bubuk (opsional)"
+        ],
+        "instructions": [
+          "1. Panaskan minyak di wajan, tumis bawang putih dan bawang merah hingga harum.",
+          "2. Didihkan air dalam panci, lalu masukkan ayam. Masak hingga ayam mulai matang dan kotoran pada air rebusan hilang, buang busa yang mengapung.",
+          "3. Masukkan tumisan bawang ke dalam panci berisi ayam.",
+          "4. Tambahkan wortel, kentang, merica bubuk, dan garam. Masak hingga sayuran empuk.",
+          "5. Masukkan kol, daun bawang, dan seledri. Masak sebentar hingga semua bahan matang dan bumbu meresap.",
+          "6. Cicipi dan tambahkan kaldu ayam bubuk jika diperlukan.",
+          "7. Angkat dan sajikan Sop Ayam selagi hangat."
+        ],
+        "prep_time": "10 menit",
+        "cook_time": "30 menit",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Cah Kangkung",
+        "main_component" : "Sayuran",
+        "ingredients": [
+          "2 ikat kangkung, siangi dan cuci bersih",
+          "3 siung bawang putih, cincang halus",
+          "5 siung bawang merah, iris tipis",
+          "2 buah cabai merah, iris serong",
+          "1 sdm saus tiram",
+          "1 sdt kecap manis",
+          "1/2 sdt garam",
+          "1/4 sdt gula pasir",
+          "1/4 sdt merica bubuk",
+          "50 ml air",
+          "2 sdm minyak goreng untuk menumis"
+        ],
+        "instructions": [
+          "1. Panaskan minyak dalam wajan, tumis bawang putih, bawang merah, dan cabai hingga harum.",
+          "2. Masukkan kangkung, aduk cepat hingga kangkung mulai layu.",
+          "3. Tambahkan saus tiram, kecap manis, garam, gula pasir, dan merica bubuk. Aduk hingga bumbu tercampur rata.",
+          "4. Tuangkan sedikit air, masak sebentar hingga kangkung matang dan bumbu meresap.",
+          "5. Angkat dan sajikan Cah Kangkung selagi hangat."
+        ],
+        "prep_time": "5 menit",
+        "cook_time": "10 menit",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Soto Betawi",
+        "main_component" : "Daging",
+        "ingredients": [
+          "500 gram daging sapi, potong-potong",
+          "200 gram babat (opsional), rebus hingga empuk",
+          "2 liter air",
+          "200 ml santan kental",
+          "200 ml susu cair",
+          "3 lembar daun salam",
+          "2 batang serai, memarkan",
+          "3 lembar daun jeruk",
+          "5 cm kayu manis",
+          "3 butir cengkeh",
+          "3 siung bawang putih, haluskan",
+          "5 siung bawang merah, haluskan",
+          "2 butir kemiri, sangrai dan haluskan",
+          "1 ruas jahe, haluskan",
+          "1 ruas lengkuas, memarkan",
+          "1 sdt merica bubuk",
+          "1 sdm garam",
+          "1/2 sdt gula pasir",
+          "2 sdm minyak untuk menumis"
+        ],
+        "instructions": [
+          "1. Rebus daging sapi dengan 2 liter air hingga setengah matang. Angkat dan sisihkan.",
+          "2. Panaskan minyak di wajan, tumis bawang putih, bawang merah, kemiri, jahe, dan serai hingga harum.",
+          "3. Masukkan bumbu tumisan ke dalam panci berisi daging rebus.",
+          "4. Tambahkan daun salam, daun jeruk, lengkuas, kayu manis, dan cengkeh. Rebus hingga daging empuk.",
+          "5. Masukkan santan kental dan susu cair, aduk perlahan agar santan tidak pecah.",
+          "6. Tambahkan garam, gula, dan merica bubuk. Masak hingga kuah mendidih dan bumbu meresap.",
+          "7. Angkat dan sajikan Soto Betawi dengan pelengkap seperti irisan tomat, emping, sambal, dan jeruk nipis."
+        ],
+        "prep_time": "20 menit",
+        "cook_time": "60 menit",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Sop Kembang Tahu",
+        "main_component" : "Kembang Tahu",
+        "ingredients": [
+          "100 gram kembang tahu kering, rendam hingga lunak dan potong-potong",
+          "200 gram daging ayam, potong kecil",
+          "2 wortel, iris bulat tipis",
+          "100 gram jamur kuping, iris tipis",
+          "2 siung bawang putih, cincang halus",
+          "3 siung bawang merah, iris tipis",
+          "1 batang daun bawang, iris tipis",
+          "1 batang seledri, iris halus",
+          "1 sdt garam",
+          "1/4 sdt merica bubuk",
+          "1/2 sdt gula pasir",
+          "1 liter air",
+          "1 sdm minyak goreng untuk menumis"
+        ],
+        "instructions": [
+          "1. Panaskan minyak dalam wajan, tumis bawang putih dan bawang merah hingga harum.",
+          "2. Didihkan air dalam panci, masukkan daging ayam, masak hingga ayam matang.",
+          "3. Tambahkan wortel dan jamur kuping ke dalam panci. Masak hingga sayuran setengah empuk.",
+          "4. Masukkan kembang tahu yang telah direndam dan dipotong-potong, aduk rata.",
+          "5. Tambahkan garam, merica bubuk, dan gula pasir. Masak hingga semua bahan matang.",
+          "6. Masukkan daun bawang dan seledri, aduk sebentar, lalu angkat.",
+          "7. Sajikan Sop Kembang Tahu selagi hangat."
+        ],
+        "prep_time": "15 menit",
+        "cook_time": "25 menit",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Mie Tek Tek",
+        "main_component" : "Mie",
+        "ingredients": [
+          "200 gram mie telur, rebus hingga matang dan tiriskan",
+          "2 butir telur, kocok lepas",
+          "100 gram ayam fillet, potong kecil",
+          "2 siung bawang putih, cincang halus",
+          "4 siung bawang merah, iris tipis",
+          "1 buah tomat, potong-potong",
+          "2 batang daun bawang, iris halus",
+          "2 lembar kol, iris tipis",
+          "2 sdm kecap manis",
+          "1 sdm saus tiram",
+          "1 sdm kecap asin",
+          "1 sdt garam",
+          "1/4 sdt merica bubuk",
+          "1/2 sdt gula pasir",
+          "1/2 sdt kaldu bubuk (opsional)",
+          "3 sdm minyak goreng untuk menumis"
+        ],
+        "instructions": [
+          "1. Panaskan minyak dalam wajan, tumis bawang putih dan bawang merah hingga harum.",
+          "2. Masukkan ayam, masak hingga berubah warna dan matang.",
+          "3. Dorong ayam ke sisi wajan, tuang telur kocok, orak-arik hingga matang, lalu aduk dengan ayam.",
+          "4. Tambahkan tomat, kol, dan daun bawang. Tumis sebentar hingga layu.",
+          "5. Masukkan mie yang sudah direbus, lalu tambahkan kecap manis, saus tiram, kecap asin, garam, merica, gula, dan kaldu bubuk.",
+          "6. Aduk rata hingga semua bumbu tercampur dan mie terasa panas.",
+          "7. Angkat dan sajikan Mie Tek Tek selagi hangat."
+        ],
+        "prep_time": "10 menit",
+        "cook_time": "20 menit",
+        "servings": 2
+      },
+      {
+        "recipe_name": "Karedok",
+        "main_component" : "Sayuran",
+        "ingredients": [
+          "100 gram kacang panjang, potong kecil",
+          "100 gram tauge, cuci bersih",
+          "100 gram kol, iris tipis",
+          "1 buah mentimun, iris kecil",
+          "1 buah terong hijau muda, iris tipis",
+          "5 lembar daun kemangi",
+          "100 gram kacang tanah, goreng dan haluskan",
+          "3 siung bawang putih",
+          "5 buah cabai rawit (sesuai selera)",
+          "3 cm kencur",
+          "2 sdm gula merah, sisir halus",
+          "1 sdt garam",
+          "2 sdm air asam jawa",
+          "100 ml air matang"
+        ],
+        "instructions": [
+          "1. Haluskan bawang putih, cabai rawit, kencur, gula merah, dan garam menggunakan cobek atau blender.",
+          "2. Tambahkan kacang tanah yang sudah dihaluskan ke dalam bumbu, aduk hingga tercampur rata.",
+          "3. Tuangkan air asam jawa dan air matang secara perlahan sambil terus diaduk hingga bumbu memiliki kekentalan yang diinginkan.",
+          "4. Campurkan semua sayuran (kacang panjang, tauge, kol, mentimun, terong, dan daun kemangi) dengan bumbu kacang.",
+          "5. Aduk hingga semua sayuran terlapisi bumbu kacang dengan rata.",
+          "6. Sajikan Karedok di atas piring saji."
+        ],
+        "prep_time": "15 menit",
+        "cook_time": "5 menit",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Ayam Geprek",
+        "main_component" : "Ayam",
+        "ingredients": [
+          "500 gram ayam fillet, potong menjadi beberapa bagian",
+          "100 gram tepung terigu",
+          "50 gram tepung maizena",
+          "1 butir telur, kocok lepas",
+          "1/2 sdt garam",
+          "1/2 sdt merica bubuk",
+          "1/4 sdt bawang putih bubuk (opsional)",
+          "Minyak goreng secukupnya untuk menggoreng",
+          "10 buah cabai rawit merah (sesuai selera)",
+          "2 siung bawang putih",
+          "1/4 sdt garam untuk sambal",
+          "1/4 sdt gula pasir untuk sambal",
+          "2 sdm minyak panas untuk sambal"
+        ],
+        "instructions": [
+          "1. Lumuri potongan ayam dengan garam, merica bubuk, dan bawang putih bubuk. Diamkan selama 15 menit.",
+          "2. Campurkan tepung terigu dan tepung maizena di dalam satu wadah.",
+          "3. Celupkan ayam ke dalam telur kocok, lalu gulingkan ke campuran tepung hingga seluruh permukaan tertutup tepung.",
+          "4. Panaskan minyak di wajan, goreng ayam hingga matang dan berwarna keemasan. Angkat dan tiriskan.",
+          "5. Haluskan cabai rawit, bawang putih, garam, dan gula pasir dengan cobek atau blender.",
+          "6. Siram bumbu sambal dengan 2 sendok makan minyak panas dari hasil menggoreng ayam, lalu aduk rata.",
+          "7. Geprek ayam goreng di atas sambal hingga sedikit pipih, lalu campur dengan sambal.",
+          "8. Sajikan Ayam Geprek dengan nasi putih hangat."
+        ],
+        "prep_time": "20 menit",
+        "cook_time": "30 menit",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Nasi Goreng Sosis",
+        "main_component" : "Nasi",
+        "ingredients": [
+          "2 piring nasi putih",
+          "2 buah sosis, potong tipis",
+          "2 siung bawang putih, cincang halus",
+          "3 siung bawang merah, iris tipis",
+          "1 butir telur",
+          "2 sdm kecap manis",
+          "1 sdm saus tiram",
+          "1/4 sdt garam",
+          "1/4 sdt merica bubuk",
+          "1/2 sdm margarin atau minyak goreng",
+          "1 batang daun bawang, iris tipis",
+          "1 buah tomat, potong-potong (opsional)",
+          "Kerupuk untuk pelengkap (opsional)"
+        ],
+        "instructions": [
+          "1. Panaskan margarin atau minyak goreng di wajan, tumis bawang putih dan bawang merah hingga harum.",
+          "2. Masukkan sosis, tumis hingga matang dan harum.",
+          "3. Geser sosis ke sisi wajan, pecahkan telur di tengah wajan, orak-arik hingga matang.",
+          "4. Masukkan nasi putih, aduk rata dengan bumbu dan sosis.",
+          "5. Tambahkan kecap manis, saus tiram, garam, dan merica bubuk. Aduk hingga semua bahan tercampur rata.",
+          "6. Masukkan daun bawang dan tomat (jika digunakan), aduk sebentar hingga rata.",
+          "7. Angkat dan sajikan Nasi Goreng Sosis dengan kerupuk sebagai pelengkap."
+        ],
+        "prep_time": "10 menit",
+        "cook_time": "15 menit",
+        "servings": 2
+      },
+      {
+        "recipe_name": "Fuyunghai",
+        "main_component" : ["Daging", "Telur"],
+        "ingredients": [
+          "4 butir telur ayam",
+          "100 gram daging ayam cincang",
+          "50 gram wortel, serut halus",
+          "50 gram kol, iris tipis",
+          "2 batang daun bawang, iris halus",
+          "2 siung bawang putih, cincang halus",
+          "1/4 sdt garam",
+          "1/4 sdt merica bubuk",
+          "1/2 sdm saus tiram",
+          "2 sdm minyak goreng untuk menggoreng",
+          "3 sdm saus tomat",
+          "1 sdm saus cabai (opsional)",
+          "1 sdt kecap asin",
+          "1/2 sdt gula pasir",
+          "100 ml air",
+          "1 sdt tepung maizena, larutkan dengan sedikit air"
+        ],
+        "instructions": [
+          "1. Kocok telur ayam hingga rata, tambahkan daging ayam cincang, wortel, kol, daun bawang, bawang putih, garam, merica, dan saus tiram. Aduk hingga semua bahan tercampur rata.",
+          "2. Panaskan minyak di wajan, tuangkan adonan telur hingga membentuk dadar tebal. Masak dengan api kecil hingga matang dan kedua sisi berwarna keemasan. Angkat dan tiriskan.",
+          "3. Untuk saus, panaskan sedikit minyak di wajan. Tumis saus tomat, saus cabai (jika digunakan), kecap asin, dan gula pasir hingga harum.",
+          "4. Tambahkan air dan aduk rata. Masak hingga mendidih, lalu tambahkan larutan tepung maizena. Aduk hingga saus mengental.",
+          "5. Tuangkan saus di atas Fuyunghai yang telah matang.",
+          "6. Sajikan Fuyunghai selagi hangat sebagai lauk pendamping nasi."
+        ],
+        "prep_time": "15 menit",
+        "cook_time": "20 menit",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Perkedel",
+        "main_component" : "Kentang",
+        "ingredients": [
+          "500 gram kentang, kupas dan potong-potong",
+          "100 gram daging ayam atau sapi cincang (opsional)",
+          "2 siung bawang putih, haluskan",
+          "3 siung bawang merah, goreng dan haluskan",
+          "1 batang seledri, iris halus",
+          "1 butir telur, pisahkan kuning dan putihnya",
+          "1/4 sdt garam",
+          "1/4 sdt merica bubuk",
+          "Minyak goreng secukupnya untuk menggoreng"
+        ],
+        "instructions": [
+          "1. Goreng kentang hingga matang dan berwarna keemasan. Angkat dan tiriskan.",
+          "2. Haluskan kentang yang sudah digoreng hingga teksturnya lembut.",
+          "3. Campurkan kentang halus dengan bawang putih, bawang merah, seledri, garam, merica bubuk, dan daging cincang (jika digunakan). Aduk rata.",
+          "4. Tambahkan kuning telur ke dalam adonan perkedel, aduk hingga tercampur rata.",
+          "5. Bentuk adonan menjadi bulatan pipih sesuai selera.",
+          "6. Panaskan minyak di wajan. Celupkan perkedel ke dalam putih telur, lalu goreng hingga berwarna keemasan. Angkat dan tiriskan.",
+          "7. Sajikan Perkedel sebagai lauk atau camilan."
+        ],
+        "prep_time": "20 menit",
+        "cook_time": "30 menit",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Telur Balado",
+        "main_component" : "Telur",
+        "ingredients": [
+          "6 butir telur ayam, rebus hingga matang dan kupas kulitnya",
+          "5 buah cabai merah besar",
+          "5 buah cabai rawit merah (sesuai selera pedas)",
+          "4 siung bawang merah",
+          "2 siung bawang putih",
+          "2 buah tomat merah",
+          "1 sdt garam",
+          "1/2 sdt gula pasir",
+          "1/4 sdt kaldu bubuk (opsional)",
+          "2 sdm minyak goreng untuk menumis"
+        ],
+        "instructions": [
+          "1. Rebus telur hingga matang, kupas kulitnya, lalu goreng sebentar hingga permukaan berwarna keemasan. Angkat dan sisihkan.",
+          "2. Haluskan cabai merah besar, cabai rawit, bawang merah, bawang putih, dan tomat dengan blender atau cobek.",
+          "3. Panaskan minyak di wajan, tumis bumbu halus hingga harum dan matang.",
+          "4. Tambahkan garam, gula pasir, dan kaldu bubuk (jika digunakan). Aduk rata.",
+          "5. Masukkan telur goreng ke dalam bumbu, aduk perlahan hingga seluruh permukaan telur terbalut bumbu balado.",
+          "6. Masak selama 3-5 menit hingga bumbu meresap. Angkat dan sajikan."
+        ],
+        "prep_time": "15 menit",
+        "cook_time": "20 menit",
+        "servings": 4
+      },
+    {
+      "recipe_name": "Sapo Tahu",
+      "main_component" : "Tahu sutra",
+      "ingredients": [
+        "200 gram tahu sutra, potong-potong dan goreng hingga kecokelatan",
+        "100 gram udang kupas",
+        "100 gram fillet ayam, potong kecil",
+        "1 wortel, iris tipis",
+        "100 gram brokoli, potong per kuntum",
+        "3 siung bawang putih, cincang halus",
+        "2 sdm saus tiram",
+        "1 sdm kecap asin",
+        "1/2 sdt gula pasir",
+        "1/4 sdt merica bubuk",
+        "200 ml kaldu ayam",
+        "1 sdt tepung maizena, larutkan dengan sedikit air",
+        "2 sdm minyak goreng untuk menumis"
+      ],
+      "instructions": [
+        "1. Panaskan minyak dalam wajan, tumis bawang putih hingga harum.",
+        "2. Masukkan ayam dan udang, masak hingga berubah warna.",
+        "3. Tambahkan wortel dan brokoli, tumis hingga setengah matang.",
+        "4. Masukkan saus tiram, kecap asin, gula pasir, dan merica bubuk. Aduk hingga rata.",
+        "5. Tuang kaldu ayam, masak hingga sayuran matang.",
+        "6. Masukkan tahu goreng, aduk perlahan agar tidak hancur.",
+        "7. Tuang larutan maizena, masak hingga kuah mengental.",
+        "8. Angkat dan sajikan Sapo Tahu selagi hangat."
+      ],
+      "prep_time": "15 menit",
+      "cook_time": "20 menit",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Semur Ayam Kecap",
+      "main_component" : "Ayam",
+      "ingredients": [
+        "500 gram ayam, potong sesuai selera",
+        "3 siung bawang putih, haluskan",
+        "5 siung bawang merah, iris tipis",
+        "2 buah kentang, potong dadu besar",
+        "5 sdm kecap manis",
+        "1 sdm saus tiram",
+        "1/2 sdt merica bubuk",
+        "1/2 sdt pala bubuk",
+        "1 ruas jahe, memarkan",
+        "2 batang serai, memarkan",
+        "2 lembar daun salam",
+        "500 ml air",
+        "1 sdm garam",
+        "1/2 sdt gula pasir",
+        "2 sdm minyak goreng untuk menumis"
+      ],
+      "instructions": [
+        "1. Panaskan minyak dalam wajan, tumis bawang putih dan bawang merah hingga harum.",
+        "2. Masukkan ayam, masak hingga berubah warna.",
+        "3. Tambahkan serai, daun salam, dan jahe, tumis sebentar hingga bumbu meresap.",
+        "4. Tuang air, masukkan kentang, kecap manis, saus tiram, garam, gula pasir, merica bubuk, dan pala bubuk.",
+        "5. Masak dengan api kecil hingga ayam dan kentang empuk, serta kuah mengental.",
+        "6. Cicipi rasanya, sesuaikan bumbu jika diperlukan.",
+        "7. Angkat dan sajikan Semur Ayam Kecap dengan nasi hangat."
+      ],
+      "prep_time": "15 menit",
+      "cook_time": "30 menit",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Kari Ayam",
+      "main_component" : "Ayam",
+      "ingredients": [
+        "500 gram ayam, potong sesuai selera",
+        "3 siung bawang putih, haluskan",
+        "5 siung bawang merah, haluskan",
+        "2 cm jahe, haluskan",
+        "1 batang serai, memarkan",
+        "3 lembar daun jeruk",
+        "2 lembar daun salam",
+        "1 sdt bubuk kari",
+        "1/2 sdt kunyit bubuk",
+        "1 sdt ketumbar bubuk",
+        "1 sdt garam",
+        "1/2 sdt gula pasir",
+        "500 ml santan cair",
+        "200 ml santan kental",
+        "1 buah kentang, potong dadu besar",
+        "2 sdm minyak goreng untuk menumis"
+      ],
+      "instructions": [
+        "1. Panaskan minyak dalam wajan, tumis bawang putih, bawang merah, jahe, serai, daun jeruk, dan daun salam hingga harum.",
+        "2. Masukkan bubuk kari, kunyit bubuk, dan ketumbar bubuk, aduk hingga bumbu tercampur rata.",
+        "3. Tambahkan potongan ayam, masak hingga ayam berubah warna.",
+        "4. Tuangkan santan cair, masukkan kentang, garam, dan gula pasir. Masak hingga kentang setengah empuk.",
+        "5. Masukkan santan kental, aduk perlahan agar santan tidak pecah, dan masak hingga ayam dan kentang matang.",
+        "6. Koreksi rasa, sesuaikan dengan selera jika diperlukan.",
+        "7. Angkat dan sajikan Kari Ayam dengan nasi putih hangat atau roti canai."
+      ],
+      "prep_time": "20 menit",
+      "cook_time": "40 menit",
+      "servings": 4
+    },
+    {
+      "recipe_name": "Sosis Goreng Mentega",
+      "main_component" : ["Sosis", "Daging"],
+      "ingredients": [
+        "6 buah sosis, potong serong atau sesuai selera",
+        "3 siung bawang putih, cincang halus",
+        "1 bawang bombay, iris tipis",
+        "2 sdm saus tiram",
+        "2 sdm kecap manis",
+        "1 sdm saus tomat",
+        "1/2 sdt merica bubuk",
+        "1/4 sdt garam (opsional)",
+        "1 sdt gula pasir",
+        "2 sdm mentega",
+        "50 ml air"
+      ],
+      "instructions": [
+        "1. Panaskan mentega di wajan, tumis bawang putih hingga harum.",
+        "2. Masukkan bawang bombay, tumis hingga layu.",
+        "3. Tambahkan sosis, masak hingga sosis berubah warna dan sedikit matang.",
+        "4. Tuang saus tiram, kecap manis, saus tomat, merica bubuk, gula pasir, dan air. Aduk hingga bumbu tercampur rata.",
+        "5. Masak dengan api kecil hingga sosis matang sempurna dan bumbu meresap.",
+        "6. Koreksi rasa, tambahkan garam jika diperlukan.",
+        "7. Angkat dan sajikan Sosis Goreng Mentega selagi hangat."
+      ],
+      "prep_time": "10 menit",
+      "cook_time": "15 menit",
+      "servings": 3
+    },
+      {
+        "recipe_name": "Cumi Goreng Tepung",
+        "main_component" : "Cumi",
+        "ingredients": [
+          "cumi",
+          "tepung terigu",
+          "tepung maizena",
+          "bawang putih",
+          "garam",
+          "merica",
+          "air es",
+          "minyak goreng"
+        ],
+        "instructions": [
+          "1. Bersihkan cumi dan potong menjadi cincin.",
+          "2. Buat adonan dari tepung terigu, tepung maizena, bawang putih halus, garam, dan merica.",
+          "3. Celupkan cumi ke dalam adonan basah.",
+          "4. Goreng cumi hingga keemasan.",
+          "5. Tiriskan dan sajikan hangat."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "20 minutes",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Udang Saus Padang",
+        "main_component" : "Udang",
+        "ingredients": [
+          "udang",
+          "bawang merah",
+          "bawang putih",
+          "cabai merah",
+          "saus tomat",
+          "saus cabai",
+          "saus tiram",
+          "garam",
+          "gula",
+          "air",
+          "minyak goreng"
+        ],
+        "instructions": [
+          "1. Bersihkan udang dan buang kepala serta kulitnya.",
+          "2. Tumis bawang merah, bawang putih, dan cabai hingga harum.",
+          "3. Masukkan udang dan aduk hingga berubah warna.",
+          "4. Tambahkan saus tomat, saus cabai, saus tiram, garam, gula, dan air.",
+          "5. Masak hingga bumbu meresap dan mengental.",
+          "6. Sajikan selagi hangat."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Kepiting Saus Tiram",
+        "main_component" : "Kepiting",
+        "ingredients": [
+          "kepiting",
+          "bawang putih",
+          "bawang bombai",
+          "saus tiram",
+          "kecap manis",
+          "garam",
+          "gula",
+          "air",
+          "minyak goreng"
+        ],
+        "instructions": [
+          "1. Rebus kepiting hingga matang dan belah menjadi dua.",
+          "2. Tumis bawang putih dan bawang bombai hingga harum.",
+          "3. Masukkan kepiting dan aduk rata.",
+          "4. Tambahkan saus tiram, kecap manis, garam, gula, dan air.",
+          "5. Masak hingga bumbu meresap dan mengental.",
+          "6. Sajikan dengan nasi hangat."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "25 minutes",
+        "servings": 3
+      },
+      {
+        "recipe_name": "Ikan Bakar Madu",
+        "main_component" : "Ikan",
+        "ingredients": [
+          "ikan kembung",
+          "bawang putih",
+          "madu",
+          "kecap manis",
+          "jeruk nipis",
+          "garam",
+          "merica",
+          "minyak goreng"
+        ],
+        "instructions": [
+          "1. Bersihkan ikan dan lumuri dengan jeruk nipis, garam, dan merica.",
+          "2. Campur madu, kecap manis, dan bawang putih halus.",
+          "3. Oleskan campuran bumbu pada ikan.",
+          "4. Bakar ikan sambil diolesi sisa bumbu hingga matang.",
+          "5. Sajikan dengan sambal dan lalapan."
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "30 minutes",
+        "servings": 2
+      },
+      {
+        "recipe_name": "Sup Ikan Asam Pedas",
+        "main_component" : "Ikan",
+        "ingredients": [
+          "ikan kakap",
+          "bawang merah",
+          "bawang putih",
+          "cabai rawit",
+          "asam jawa",
+          "tomat",
+          "serai",
+          "daun jeruk",
+          "garam",
+          "gula",
+          "air"
+        ],
+        "instructions": [
+          "1. Rebus air bersama serai, daun jeruk, bawang merah, dan bawang putih.",
+          "2. Masukkan potongan ikan, tomat, dan cabai rawit.",
+          "3. Tambahkan garam, gula, dan asam jawa.",
+          "4. Masak hingga ikan matang dan bumbu meresap.",
+          "5. Sajikan hangat."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "20 minutes",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Kerang Hijau Saus Padang",
+        "main_component" : "Kerang Hijau",
+        "ingredients": [
+          "kerang hijau",
+          "bawang merah",
+          "bawang putih",
+          "cabai merah",
+          "saus tiram",
+          "saus tomat",
+          "saus cabai",
+          "garam",
+          "gula",
+          "air"
+        ],
+        "instructions": [
+          "1. Rebus kerang hingga cangkang terbuka.",
+          "2. Tumis bawang merah, bawang putih, dan cabai hingga harum.",
+          "3. Masukkan kerang dan aduk rata.",
+          "4. Tambahkan saus tiram, saus tomat, saus cabai, garam, gula, dan air.",
+          "5. Masak hingga bumbu meresap dan mengental.",
+          "6. Sajikan hangat."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "20 minutes",
+        "servings": 3
+      },
+      {
+        "recipe_name": "Ikan Goreng Tepung",
+        "main_component" : "Ikan",
+        "ingredients": [
+          "ikan fillet",
+          "tepung terigu",
+          "tepung maizena",
+          "garam",
+          "merica",
+          "air",
+          "minyak goreng"
+        ],
+        "instructions": [
+          "1. Bersihkan ikan dan potong sesuai selera.",
+          "2. Buat adonan dari tepung terigu, tepung maizena, garam, merica, dan air.",
+          "3. Celupkan ikan ke dalam adonan.",
+          "4. Goreng hingga keemasan dan matang.",
+          "5. Tiriskan dan sajikan dengan saus sambal."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Sate Cumi Bakar",
+        "main_component" : "Cumi",
+        "ingredients": [
+          "cumi",
+          "kecap manis",
+          "bawang putih",
+          "cabai merah",
+          "garam",
+          "merica",
+          "minyak goreng"
+        ],
+        "instructions": [
+          "1. Bersihkan cumi dan tusuk dengan tusukan sate.",
+          "2. Campur kecap manis, bawang putih, cabai, garam, dan merica.",
+          "3. Oleskan bumbu pada cumi.",
+          "4. Bakar sate cumi hingga matang.",
+          "5. Sajikan dengan sambal kecap."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "15 minutes",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Udang Goreng Mentega",
+        "main_component" : "Udang",
+        "ingredients": [
+          "udang",
+          "bawang putih",
+          "bawang bombai",
+          "mentega",
+          "saus tiram",
+          "kecap inggris",
+          "garam",
+          "gula",
+          "air"
+        ],
+        "instructions": [
+          "1. Bersihkan udang dan buang kepalanya.",
+          "2. Panaskan mentega, tumis bawang putih dan bawang bombai hingga harum.",
+          "3. Masukkan udang dan tumis hingga berubah warna.",
+          "4. Tambahkan saus tiram, kecap inggris, garam, dan gula.",
+          "5. Masak hingga bumbu meresap.",
+          "6. Sajikan hangat."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Pepes Ikan",
+        "main_component" : "Ikan",
+        "ingredients": [
+          "ikan",
+          "daun pisang",
+          "bawang merah",
+          "bawang putih",
+          "cabai merah",
+          "kunyit",
+          "serai",
+          "daun jeruk",
+          "garam",
+          "gula"
+        ],
+        "instructions": [
+          "1. Bersihkan ikan dan potong sesuai selera.",
+          "2. Haluskan bawang merah, bawang putih, cabai, kunyit, garam, dan gula.",
+          "3. Baluri ikan dengan bumbu dan tambahkan serai serta daun jeruk.",
+          "4. Bungkus ikan dengan daun pisang.",
+          "5. Kukus selama 30 menit hingga matang.",
+          "6. Sajikan hangat."
+        ],
+        "prep_time": "20 minutes",
+        "cook_time": "40 minutes",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Bakso Ikan",
+        "main_component" : "Ikan",
+        "ingredients": [
+          "daging ikan",
+          "tepung tapioka",
+          "bawang putih",
+          "garam",
+          "merica",
+          "air es"
+        ],
+        "instructions": [
+          "1. Haluskan daging ikan, bawang putih, garam, dan merica.",
+          "2. Campurkan adonan dengan tepung tapioka dan air es.",
+          "3. Bentuk adonan menjadi bulatan kecil.",
+          "4. Rebus bakso dalam air mendidih hingga mengapung.",
+          "5. Sajikan dengan kuah bakso dan pelengkap."
+        ],
+        "prep_time": "30 minutes",
+        "cook_time": "20 minutes",
+        "servings": 6
+      },
+      {
+        "recipe_name": "Sup Kerang",
+        "main_component" : "Kerang ",
+        "ingredients": [
+          "kerang",
+          "bawang merah",
+          "bawang putih",
+          "jahe",
+          "daun bawang",
+          "garam",
+          "merica",
+          "air"
+        ],
+        "instructions": [
+          "1. Rebus kerang hingga cangkang terbuka.",
+          "2. Tumis bawang merah, bawang putih, dan jahe hingga harum.",
+          "3. Masukkan air dan kerang ke dalam panci.",
+          "4. Tambahkan garam dan merica.",
+          "5. Masak hingga kerang matang dan kuahnya terasa gurih.",
+          "6. Tambahkan daun bawang sebelum disajikan."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "25 minutes",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Scallop Bakar Mentega",
+        "main_component" : "Scallop",
+        "ingredients": [
+          "scallop",
+          "mentega",
+          "bawang putih",
+          "garam",
+          "merica",
+          "jeruk lemon"
+        ],
+        "instructions": [
+          "1. Bersihkan scallop dan keringkan dengan tisu dapur.",
+          "2. Panaskan mentega di wajan dan tumis bawang putih hingga harum.",
+          "3. Tambahkan scallop dan masak hingga kedua sisi kecokelatan.",
+          "4. Taburi garam, merica, dan beri perasan jeruk lemon.",
+          "5. Sajikan hangat."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "servings": 2
+      },
+      {
+        "recipe_name": "Ikan Asin Balado",
+        "main_component" : "Ikan",
+        "ingredients": [
+          "ikan asin",
+          "cabai merah",
+          "bawang merah",
+          "bawang putih",
+          "tomat",
+          "garam",
+          "gula",
+          "minyak goreng"
+        ],
+        "instructions": [
+          "1. Goreng ikan asin hingga kering dan tiriskan.",
+          "2. Tumis bawang merah, bawang putih, cabai, dan tomat hingga matang.",
+          "3. Masukkan ikan asin ke dalam tumisan bumbu.",
+          "4. Tambahkan garam dan gula sesuai selera.",
+          "5. Masak hingga bumbu meresap.",
+          "6. Sajikan hangat."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Tuna Suwir Pedas",
+        "main_component" : "Ikan Tuna",
+        "ingredients": [
+          "ikan tuna",
+          "bawang merah",
+          "bawang putih",
+          "cabai rawit",
+          "daun jeruk",
+          "garam",
+          "gula",
+          "minyak goreng"
+        ],
+        "instructions": [
+          "1. Rebus ikan tuna hingga matang, lalu suwir-suwir dagingnya.",
+          "2. Tumis bawang merah, bawang putih, dan cabai hingga harum.",
+          "3. Masukkan ikan tuna suwir dan aduk rata.",
+          "4. Tambahkan daun jeruk, garam, dan gula.",
+          "5. Masak hingga bumbu meresap dan ikan agak kering.",
+          "6. Sajikan hangat dengan nasi putih."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "20 minutes",
+        "servings": 4
+      },
+      {
+        "recipe_name": "Salad Udang Mayones",
+        "main_component" : ["Udang", "sayuran"],
+        "ingredients": [
+          "udang rebus",
+          "selada",
+          "timun",
+          "wortel",
+          "mayones",
+          "saus tomat",
+          "garam",
+          "gula"
+        ],
+        "instructions": [
+          "1. Rebus udang hingga matang dan tiriskan.",
+          "2. Iris selada, timun, dan wortel sesuai selera.",
+          "3. Campur udang, sayuran, mayones, saus tomat, garam, dan gula.",
+          "4. Aduk hingga semua bahan tercampur rata.",
+          "5. Sajikan dingin sebagai hidangan pembuka."
+        ],
+        "prep_time": "15 minutes",
+        "cook_time": "10 minutes",
+        "servings": 4
+      }
+]
+  
